@@ -1,0 +1,7 @@
+tensorflow==2.19.0
+tensorflow-hub==0.16.1
+tf-keras==2.19.0
+numpy==2.0.2
+pandas==2.2.2
+pillow
+setuptools==75.2.0
