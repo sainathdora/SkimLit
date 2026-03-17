@@ -49,8 +49,8 @@ function App() {
           required
         />
         <br />
-        <button type="submit" disabled={loading}>
-          {loading ? "Processing..." : "Classify Abstract"}
+        <button type="submit" disabled={loading} className='button-container'>
+          {loading ? "Processing..." : "Summarize!"}
         </button>
       </form>
 
